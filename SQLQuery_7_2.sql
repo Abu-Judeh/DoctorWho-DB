@@ -1,0 +1,1 @@
+SELECT dbo.fnEnemies(1) AS EnemyName;

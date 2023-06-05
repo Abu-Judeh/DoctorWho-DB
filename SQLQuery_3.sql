@@ -41,10 +41,10 @@ INSERT INTO tblEpisodes VALUES
 -- Inserting into tblEpisodeCompanions
 INSERT INTO tblEpisodeCompanions VALUES
 (1, 1, 1),
-(2, 1, 2),
-(3, 2, 3),
-(4, 2, 4),
-(5, 3, 5);
+(2, 2, 2),
+(3, 3, 4),
+(4, 4, 4),
+(5, 5, 4);
 -- Inserting into tblEpisodeEnemies
 INSERT INTO tblEpisodeEnemies VALUES
 (1, 1, 1),
